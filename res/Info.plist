@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MOBAppKey</key>
+	<string>30fcaa8633500</string>
+	<key>MOBAppSecret</key>
+	<string>55f6d431685251a3c892d029a4663f06</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
